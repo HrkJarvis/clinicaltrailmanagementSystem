@@ -353,26 +353,6 @@ Platform:
 - bcryptjs for password hashing
 - express-session for session management
 
-## 📁 Project Structure
-
-```
-clinical-trials-app/
-├── frontend/                 # React application
-│   ├── public/
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   ├── services/         # API service functions
-│   │   ├── styles/          # CSS files
-│   │   └── App.js           # Main App component
-│   └── package.json
-├── backend/                  # Node.js/Express API
-│   ├── models/              # Mongoose models
-│   ├── routes/              # API routes
-│   ├── middleware/          # Custom middleware
-│   ├── config/              # Configuration files
-│   └── server.js            # Main server file
-└── README.md
-```
 
 ## 🚦 Getting Started
 
