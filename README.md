@@ -16,7 +16,6 @@ A secure, role-based web application to manage clinical trials end-to-end. It su
 - Data Validation
 - Frontend UX Details
 - Logging & Error Handling
-- Testing
 - Deployment Notes
 - Roadmap (Future Work)
 - Troubleshooting
